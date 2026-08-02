@@ -1,7 +1,8 @@
 # Viper | Minecraft 1.8.9 Ghost Client Runtime Framework
 > A modern, modular C++ injection and runtime framework for Minecraft 1.8.9.
 
-![alt text](<Group 88.png>)
+<img width="1272" height="744" alt="Group 88" src="https://github.com/user-attachments/assets/e62d7c50-ecf1-402f-a122-2449eec751ff" />
+
 ## Overview
 
 Viper is a clean, headless injector engine and foundation designed for Minecraft 1.8.9. 
